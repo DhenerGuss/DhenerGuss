@@ -1,19 +1,20 @@
-## Olá! Eu sou o Dhener Augusto.
+# Olá, eu sou o Dhener Augusto! 👋
 
-- 🔭 Estou atualmente trabalhando como assistente administrativo.
-- 🌱 Estou atualmente estudando HTML, CSS, Javascript, TypeScript, React.js e Next.js autodidata.
-- 🎓 Engenharia de Software.
-- 😄 Pronouns: Ele/Dele
+Sou um desenvolvedor em transição de carreira, unindo a organização e a visão de processos da área administrativa com o poder da Engenharia de Software.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhenerGuss&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-## Linguagens que estou usando:
+#### 🚀 Tecnologias de Foco (Frontend & Core)
+As ferramentas que utilizo diariamente para construir interfaces e aplicações robustas:
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="center" alt="JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-</div>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 🏛 Fundamentos & Acadêmico
+Linguagens exploradas em projetos acadêmicos e cursos de base:
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
