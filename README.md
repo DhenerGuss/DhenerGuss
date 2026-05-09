@@ -2,7 +2,6 @@
 
 Sou um desenvolvedor em transição de carreira, unindo a organização e a visão de processos da área administrativa com o poder da Engenharia de Software.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhenerGuss&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 🚀 Tecnologias de Foco (Frontend & Core)
 As ferramentas que utilizo diariamente para construir interfaces e aplicações robustas:
